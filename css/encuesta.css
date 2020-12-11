@@ -1,0 +1,26 @@
+nav{
+      background-color: #a18594;
+      text-align: center;
+      border: solid;
+    }
+  
+.nav-link{
+      color:black;
+      font-weight: bold;
+      background-color: #a18594;
+      text-align: center;
+  }
+.usua{
+    margin-left: 70%;
+}
+.cajita{
+    margin-left: 30%;
+    margin-top: 8%;
+}
+.perfi{
+    margin-top: 7%;
+}
+#borde{
+    border-style: solid;
+    text-align: center;
+}
